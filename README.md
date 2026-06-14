@@ -239,6 +239,10 @@ GROUP BY shift
 
 ```
 
+### Retail Sales Dashboard
+<img width="600" height="300" alt="Dashboard 3" src="https://github.com/user-attachments/assets/8dbe2fbf-5fc5-4b4c-a719-28f395126424" />
+
+
 ### Contact & Portfolio
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/sitihabibah071)
 - **Email**: [Contact me](sitihabibah071@gmail.com)
