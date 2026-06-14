@@ -57,12 +57,6 @@ The dashboard highlights three high-level business metrics at a glance:
 - **Total Profit**: $216K, indicating healthy profit margins across product lines.
 - **Customer Footprint**: 147 unique customers driving the operational volume.
 
-### 2. Core KPIs (Key Performance Indicators)
-
-The dashboard highlights three high-level business metrics at a glance:
-- **Total Sales**: $459K, representing the gross revenue generated.
-- **Total Profit**: $216K, indicating healthy profit margins across product lines.
-- **Customer Footprint**: 147 unique customers driving the operational volume.
 
 ### 2. Visual Breakthroughs & Charts
 
