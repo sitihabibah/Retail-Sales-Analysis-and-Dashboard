@@ -2,7 +2,7 @@
 
 An end-to-end data engineering and business intelligence project showcasing advanced database querying using **PostgreSQL** and dynamic executive reporting using **Tableau**. 
 
-The project converts raw transactional retail data from [Kaggle](https://www.kaggle.com) into a refined, decision-ready visual dashboard tracking key store performance metrics, customer demographics, and product category trends.
+The project converts raw transactional retail data into a refined, decision-ready visual dashboard tracking key store performance metrics, customer demographics, and product category trends.
 
 ---
 
