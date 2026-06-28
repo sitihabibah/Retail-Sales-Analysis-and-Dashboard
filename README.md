@@ -60,6 +60,15 @@ The following advanced analytical inquiries were implemented to guide the busine
 
 ---
 
+## 💼 Business Recommendations
+- Prioritize inventory stocking for Electronics and Clothing ahead of Q4 (Sep–Dec peak)
+- Design loyalty programs targeting Senior (50+) segment — highest-value demographic at $149K
+- Optimize Evening shift staffing based on shift distribution analysis
+
+
+---
+
+
 ## 📊 Tableau Executive Dashboard Insights
 
 The final presentation layout, showcased in `retail_sales_dashboard.png`, provides cross-filtered corporate visibility:
