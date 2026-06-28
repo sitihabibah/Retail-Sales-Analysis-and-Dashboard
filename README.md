@@ -62,7 +62,7 @@ The following advanced analytical inquiries were implemented to guide the busine
 
 ## 📊 Tableau Executive Dashboard Insights
 
-The final presentation layout, showcased in `Dashboard 3 - Copy.png`, provides cross-filtered corporate visibility:
+The final presentation layout, showcased in `retail_sales_dashboard.png`, provides cross-filtered corporate visibility:
 
 * **High-Level Summary Tiles (KPIs):** Displays macro metrics highlighting **$459K Total Sales**, **$216K Total Net Profits**, and **147 Unique Active Customers**.
 * **Sales by Month (Trend Line Chart):** Displays revenue fluctuations over the calendar year, showcasing steady growth throughout Q1-Q3 with a major performance breakout beginning in **September** and peaking through **December**.
